@@ -6,7 +6,7 @@ def main():
     while True:
         try:
             os.system('cls')
-            print("Welcome to Dice Roll Game!")
+            print("Welcome to Dice Game!")
             print("1. Register")
             print("2. Login")
             print("3. Exit")
